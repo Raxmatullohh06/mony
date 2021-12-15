@@ -1,0 +1,263 @@
+.rigth{
+    width: 438px;
+    height: 140vh;
+    background-color: $klurang;
+    padding: 10px 20px;
+
+    header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+        .img {
+            width: 50px;
+            height: 50px;
+            padding: 15px 8px;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: inset -6px -6px 3px -4px rgba(232, 235, 243, 0.77), inset 3px 3px 3px -1px rgba(34, 58, 120, 0.05);
+            filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.03)) drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)) drop-shadow(0px 100px 80px rgba(41, 72, 152, 0.05)) drop-shadow(0px 64.8148px 46.8519px rgba(41, 72, 152, 0.037963)) drop-shadow(0px 38.5185px 25.4815px rgba(41, 72, 152, 0.0303704)) drop-shadow(0px 20px 13px rgba(41, 72, 152, 0.025));
+            
+            img {
+                width: 30px;
+                height: 20px;
+            }
+        }
+    }
+
+    .section-1 {
+        margin-top: 66px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        button {
+            width: 105px;
+            height: 47px;
+            background-color: white;
+            border: none;
+            border-radius: 10px;
+        }
+    }
+
+    .section-2 {
+        margin-top: 21px;
+        display: flex;
+        gap: 10px;
+        flex-direction: column;
+
+        .box-1 {
+            width: 335px;
+            height: 118px;
+            background-color: white;
+            box-shadow: 0px 21px 79px rgba(0, 0, 0, 0.08);
+            border-radius: 10px;
+            padding: 10px 16px;
+
+            .text {
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+
+                .img {
+                    width: 36px;
+                    height: 36px;
+                    background-color: $olorang;
+                    padding: 9px;
+                    border-radius: 100%;
+                }
+
+                .p {
+                    width: 92px;
+                    height: 25px;
+                    background-color: white;
+                    box-shadow: 0px 7px 27px rgba(0, 0, 0, 0.07);
+                    border-radius: 10px;
+                }
+            }
+
+            .text-2 {
+                margin-top: 27px;
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+            }
+        }
+
+        .box-2 {
+            width: 335px;
+            height: 118px;
+            background-color: white;
+            box-sizing: border-box;
+            border-radius: 10px;
+            padding: 10px 16px;
+        
+            .text {
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+            
+                .img {
+                    width: 36px;
+                    height: 36px;
+                    background-color: $yashl;
+                    padding: 9px;
+                    border-radius: 100%;
+                }
+           
+                .p {
+                    width: 100px;
+                    height: 25px;
+                    background-color: white;
+                    box-shadow: 0px 7px 27px rgba(0, 0, 0, 0.07);
+                    border-radius: 10px;
+                    
+                }
+            }
+
+            .text-2 {
+                margin-top: 28px;
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+            }
+        }
+    }
+
+    .line {
+        width: 335px;
+        height: 50px;
+        border-radius: 10px;
+        background-color: $toqkok;
+        opacity: 0.2;
+        margin-top: 32px;
+        padding: 6px 10px;
+        display: flex;
+        gap: 68px;
+
+        .img {
+            width: 40px;
+            height: 40px;
+            background-color: #fff;
+            border-radius: 10px;
+            padding: 13px;
+            box-shadow: 0px 2px 27px rgba(0, 0, 0, 0.06);
+        }
+
+        .text {
+            display: flex;
+            gap: 14px;
+            align-items: center;
+        }
+    }
+
+    .walest {
+        margin-top: 64px;
+    }
+
+    .foure-box {
+        margin-top: 33.82px;
+        display: flex;
+        flex-direction: column;
+        gap: 16px;
+
+        .box-1 {
+            display: flex;
+            align-items: center;
+
+            .img {
+                width: 47.76px;
+                height: 47.76px;
+                background-color: $bcollor;
+                border-radius: 7px;
+                padding: 14px 17px;
+            }
+
+            .text {
+                margin-left: 11px;
+            }
+
+            .text-2 {
+                display: flex;
+                flex-direction: column;
+                gap: 11px;
+                margin-left: 190px;
+            }
+        }
+
+        .box-2 {
+            display: flex;
+            align-items: center;
+
+            .img {
+                width: 47.76px;
+                height: 47.76px;
+                background-color: $ochrang;
+                border-radius: 7px;
+                padding: 14px 17px;
+            }
+
+            .text {
+                margin-left: 11px;
+            }
+
+            .text-2 {  
+                display: flex;
+                flex-direction: column;
+                gap: 11px;
+                margin-left: 207px;
+            }
+        }
+
+        .box-3 {
+            display: flex;
+            align-items: center;
+        
+            .img {
+                width: 47.76px;
+                height: 47.76px;
+                background-color: $xre;
+                border-radius: 7px;
+                padding: 14px 17px;
+            }
+
+            .text {
+                margin-left: 11px;
+            }
+
+            .text-2 {
+                display: flex;
+                flex-direction: column;
+                gap: 11px;
+                margin-left: 197px;
+            }
+
+        }
+
+        .box-4 {
+            display: flex;
+            align-items: center;
+        
+            .img {
+                width: 47.76px;
+                height: 47.76px;
+                background-color: $ochyashil;
+                border-radius: 7px;
+                padding: 14px 17px;
+            }
+
+            .text {
+                margin-left: 11px;
+            }
+
+            .text-2 {
+                display: flex;
+                flex-direction: column;
+                gap: 11px;
+                margin-left: 193px;
+            }
+
+        }
+
+    }
+}

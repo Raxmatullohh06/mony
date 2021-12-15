@@ -1,0 +1,400 @@
+.left {
+    width: 280px;
+    height: 140vh;
+    background-color: $klurang;
+    padding: 10px 54px;
+
+    .logo {
+        width: 111px;
+        height: 62.05px;
+        margin-left: 30px;
+    }
+
+    .oltita {
+        margin-top: 22.95px;
+        display: flex;
+        gap: 61px;
+
+        .chap {
+            flex-direction: column;
+            display: flex;
+            gap: 10px;
+
+            .box-1 {
+                display: flex;
+                flex-direction: column;
+                gap: 16px;
+
+                .img {
+                    width: 50px;
+                    height: 50px;
+                    background-color: $oqroq;
+                    border-radius: 10px;
+                    padding: 13px;
+
+                    &:hover {
+                        background-color: $toqkok;
+                        box-shadow: 0px 10px 20px rgba(88, 92, 229, 0.25);
+                    }
+
+                    img {
+                        width: 24px;
+                        height: 24px;
+                    }
+                }
+
+                p {
+                    font-size: 12px;
+
+                    &:hover {
+                        color: $koktoq;
+                    }
+                }
+            }
+
+            .box-2 {
+                display: flex;
+                flex-direction: column;
+                gap: 16px;
+
+                .img {
+                    width: 50px;
+                    height: 50px;
+                    background-color: $oqroq;
+                    border-radius: 10px;
+                    padding: 13px;
+
+                    &:hover {
+                        background-color: $toqkok;
+                        box-shadow: 0px 10px 20px rgba(88, 92, 229, 0.25);
+                    }
+
+                    img {
+                        width: 24px;
+                        height: 24px;
+                    }
+                }
+
+                p {
+                    font-size: 12px;
+
+                    &:hover {
+                        color: $koktoq;
+                    }
+                }
+            }
+
+            .box-3 {
+                display: flex;
+                flex-direction: column;
+                gap: 16px;
+
+                .img {
+                    width: 50px;
+                    height: 50px;
+                    background-color: $oqroq;
+                    border-radius: 10px;
+                    padding: 13px;
+
+                    &:hover {
+                        background-color: $toqkok;
+                        box-shadow: 0px 10px 20px rgba(88, 92, 229, 0.25);
+                    }
+
+                    img {
+                        width: 24px;
+                        height: 24px;
+                    }
+                }
+
+                p {
+                    font-size: 12px;
+
+                    &:hover {
+                        color: $koktoq;
+                    }
+                }
+            }
+        }
+
+        .ong {
+            flex-direction: column;
+            display: flex;
+            gap: 10px;
+
+            .box-1 {
+                display: flex;
+                flex-direction: column;
+                gap: 16px;
+
+                .img {
+                    width: 50px;
+                    height: 50px;
+                    background-color: $oqroq;
+                    border-radius: 10px;
+                    padding: 13px;
+
+                    &:hover {
+                        background-color: $toqkok;
+                        box-shadow: 0px 10px 20px rgba(88, 92, 229, 0.25);
+                    }
+
+                    img {
+                        width: 24px;
+                        height: 24px;
+                    }
+                }
+
+                p {
+                    font-size: 12px;
+                    letter-spacing: 1px;
+
+                    &:hover {
+                        color: $koktoq;
+                    }
+                }
+            }
+
+            .box-2 {
+                display: flex;
+                flex-direction: column;
+                gap: 16px;
+
+                .img {
+                    width: 50px;
+                    height: 50px;
+                    background-color: $oqroq;
+                    border-radius: 10px;
+                    padding: 13px;
+
+                    &:hover {
+                        background-color: $toqkok;
+                        box-shadow: 0px 10px 20px rgba(88, 92, 229, 0.25);
+                    }
+
+                    img {
+                        width: 24px;
+                        height: 24px;
+                    }
+                }
+
+                p {
+                    font-size: 12px;
+                    letter-spacing: 1px;
+
+                    &:hover {
+                        color: $koktoq;
+                    }
+                }
+            }
+
+            .box-3 {
+                display: flex;
+                flex-direction: column;
+                gap: 16px;
+
+                .img {
+                    width: 50px;
+                    height: 50px;
+                    background-color: $oqroq;
+                    border-radius: 10px;
+                    padding: 13px;
+
+                    &:hover {
+                        background-color: $toqkok;
+                        box-shadow: 0px 10px 20px rgba(88, 92, 229, 0.25);
+                    }
+
+                    img {
+                        width: 24px;
+                        height: 24px;
+                    }
+                }
+
+                p {
+                    font-size: 12px;
+                    letter-spacing: 1px;
+
+                    &:hover {
+                        color: $koktoq;
+                    }
+                }
+            }
+        }
+    }
+
+    .torta {
+            margin-top: 70px;
+            display: flex;
+            gap: 61px;
+
+        .chap {
+            flex-direction: column;
+            display: flex;
+            gap: 10px;
+
+            .box-1 {
+                display: flex;
+                flex-direction: column;
+                gap: 16px;
+
+                .img {
+                    width: 50px;
+                    height: 50px;
+                    background-color: $oqroq;
+                    border-radius: 10px;
+                    padding: 13px;
+
+                    &:hover {
+                        background-color: $toqkok;
+                        box-shadow: 0px 10px 20px rgba(88, 92, 229, 0.25);
+                    }
+
+                    img {
+                        width: 24px;
+                        height: 24px;
+                    }
+                }
+
+                p {
+                    font-size: 12px;
+                    letter-spacing: 1px;
+                    
+                    &:hover {
+                        color: $koktoq;
+                    }
+                }
+            }    
+            
+            .box-2 {
+                display: flex;
+                flex-direction: column;
+                gap: 16px;
+                
+             .img {
+                width: 50px;
+                height: 50px;
+                background-color: $oqroq;
+                border-radius: 10px;
+                padding: 13px;
+
+                &:hover {
+                    background-color: $toqkok;
+                    box-shadow: 0px 10px 20px rgba(88, 92, 229, 0.25);
+                }
+        
+               img {
+                    width: 24px;
+                    height: 24px;
+                }
+                }
+
+                p {
+                    font-size: 12px;
+                    letter-spacing: 1px;
+
+                    &:hover {
+                        color: $koktoq;
+                    }
+                }
+            }
+        }
+
+        .ong {
+            flex-direction: column;
+            display: flex;
+            gap: 10px;
+
+            
+            .box-1 {
+                display: flex;
+                flex-direction: column;
+                gap: 16px;
+
+                .img {
+                    width: 50px;
+                    height: 50px;
+                    background-color: $oqroq;
+                    border-radius: 10px;
+                    padding: 13px;
+
+                    &:hover {
+                        background-color: $toqkok;
+                        box-shadow: 0px 10px 20px rgba(88, 92, 229, 0.25);
+                    }
+
+                    img {
+                        width: 24px;
+                        height: 24px;
+                    }
+                }
+
+                p {
+                    font-size: 12px;
+                    letter-spacing: 1px;
+
+                    &:hover {
+                        color: $koktoq;
+                    }
+                }
+            }    
+            
+            .box-2 {
+                display: flex;
+                flex-direction: column;
+                gap: 16px;
+                
+             .img {
+                    width: 50px;
+                    height: 50px;
+                    background-color: $oqroq;
+                    border-radius: 10px;
+                    padding: 13px;
+        
+                    &:hover {
+                        background-color: $toqkok;
+                        box-shadow: 0px 10px 20px rgba(88, 92, 229, 0.25);
+                    }
+
+                  img {
+                    width: 24px;
+                    height: 24px;
+                 }
+                }
+
+                p {
+                    font-size: 12px;
+                    letter-spacing: 1px;
+
+                    &:hover {
+                        color: $koktoq;
+                    }
+                }
+            }
+        }            
+    } 
+    
+    .footer {
+        margin-top: 47px;
+        width: 160px;
+        height: 238px;
+        background-color: $kok;
+        border-radius: 13px;
+        display: flex;
+        flex-direction: column;
+        gap: 4px;
+        padding: 10px;
+
+        a {
+            margin-top: 10px;
+            width: 140.92px;
+            height: 46.15px;
+            background-color: white;
+            border-radius: 13px;
+            padding: 14px 28px;
+            text-decoration: none;
+            color: $kokroq;
+        }
+    }
+    
+}
